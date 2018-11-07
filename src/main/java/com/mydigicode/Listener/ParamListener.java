@@ -17,7 +17,6 @@ public class ParamListener implements ValueEventListener {
         }else{
             System.out.println(dataSnapshot);
         }
-
     }
 
     @Override

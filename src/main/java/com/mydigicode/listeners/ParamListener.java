@@ -1,4 +1,4 @@
-package com.mydigicode.Listener;
+package com.mydigicode.listeners;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
